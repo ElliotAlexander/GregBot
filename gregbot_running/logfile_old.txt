@@ -1,0 +1,1811 @@
+[Thu Aug 17 01:42:43 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 01:42:43 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 01:42:43 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 01:42:43 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 01:42:43 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 01:42:43 CEST 2017]serialVersionUID: 6175546394599249696
+[Thu Aug 17 01:42:43 CEST 2017]debug: true
+[Thu Aug 17 01:42:43 CEST 2017]user: null
+[Thu Aug 17 01:42:43 CEST 2017]password: null
+[Thu Aug 17 01:42:43 CEST 2017]httpConf: MyHttpClientConfiguration{httpProxyHost='null', httpProxyUser='null', httpProxyPassword='null', httpProxyPort=-1, httpConnectionTimeout=20000, httpReadTimeout=120000, prettyDebug=false, gzipEnabled=true}
+[Thu Aug 17 01:42:43 CEST 2017]httpStreamingReadTimeout: 40000
+[Thu Aug 17 01:42:43 CEST 2017]httpRetryCount: 0
+[Thu Aug 17 01:42:43 CEST 2017]httpRetryIntervalSeconds: 5
+[Thu Aug 17 01:42:43 CEST 2017]oAuthConsumerKey: iX3dpWKxBvA5nCnxOVJ0vuc3I
+[Thu Aug 17 01:42:43 CEST 2017]oAuthConsumerSecret: **************************************************
+[Thu Aug 17 01:42:43 CEST 2017]oAuthAccessToken: 897873358876028928-yQAb1GsiRACfRhlSftRD9WFk0In9fZi
+[Thu Aug 17 01:42:43 CEST 2017]oAuthAccessTokenSecret: *********************************************
+[Thu Aug 17 01:42:43 CEST 2017]oAuth2TokenType: null
+[Thu Aug 17 01:42:43 CEST 2017]oAuth2AccessToken: null
+[Thu Aug 17 01:42:43 CEST 2017]oAuth2Scope: null
+[Thu Aug 17 01:42:43 CEST 2017]oAuthRequestTokenURL: https://api.twitter.com/oauth/request_token
+[Thu Aug 17 01:42:43 CEST 2017]oAuthAuthorizationURL: https://api.twitter.com/oauth/authorize
+[Thu Aug 17 01:42:43 CEST 2017]oAuthAccessTokenURL: https://api.twitter.com/oauth/access_token
+[Thu Aug 17 01:42:43 CEST 2017]oAuthAuthenticationURL: https://api.twitter.com/oauth/authenticate
+[Thu Aug 17 01:42:43 CEST 2017]oAuth2TokenURL: https://api.twitter.com/oauth2/token
+[Thu Aug 17 01:42:43 CEST 2017]oAuth2InvalidateTokenURL: https://api.twitter.com/oauth2/invalidate_token
+[Thu Aug 17 01:42:43 CEST 2017]restBaseURL: https://api.twitter.com/1.1/
+[Thu Aug 17 01:42:43 CEST 2017]streamBaseURL: https://stream.twitter.com/1.1/
+[Thu Aug 17 01:42:43 CEST 2017]userStreamBaseURL: https://userstream.twitter.com/1.1/
+[Thu Aug 17 01:42:43 CEST 2017]siteStreamBaseURL: https://sitestream.twitter.com/1.1/
+[Thu Aug 17 01:42:43 CEST 2017]uploadBaseURL: https://upload.twitter.com/1.1/
+[Thu Aug 17 01:42:43 CEST 2017]dispatcherImpl: twitter4j.DispatcherImpl
+[Thu Aug 17 01:42:43 CEST 2017]asyncNumThreads: 1
+[Thu Aug 17 01:42:43 CEST 2017]loggerFactory: null
+[Thu Aug 17 01:42:43 CEST 2017]contributingTo: -1
+[Thu Aug 17 01:42:43 CEST 2017]includeMyRetweetEnabled: true
+[Thu Aug 17 01:42:43 CEST 2017]includeEntitiesEnabled: true
+[Thu Aug 17 01:42:43 CEST 2017]trimUserEnabled: false
+[Thu Aug 17 01:42:43 CEST 2017]includeExtAltTextEnabled: true
+[Thu Aug 17 01:42:43 CEST 2017]tweetModeExtended: false
+[Thu Aug 17 01:42:43 CEST 2017]includeEmailEnabled: false
+[Thu Aug 17 01:42:43 CEST 2017]jsonStoreEnabled: false
+[Thu Aug 17 01:42:43 CEST 2017]mbeanEnabled: false
+[Thu Aug 17 01:42:43 CEST 2017]userStreamRepliesAllEnabled: false
+[Thu Aug 17 01:42:43 CEST 2017]userStreamWithFollowingsEnabled: true
+[Thu Aug 17 01:42:43 CEST 2017]stallWarningsEnabled: true
+[Thu Aug 17 01:42:43 CEST 2017]applicationOnlyAuthEnabled: false
+[Thu Aug 17 01:42:43 CEST 2017]mediaProvider: TWITTER
+[Thu Aug 17 01:42:43 CEST 2017]mediaProviderAPIKey: null
+[Thu Aug 17 01:42:43 CEST 2017]mediaProviderParameters: null
+[Thu Aug 17 01:42:43 CEST 2017]daemonEnabled: true
+[Thu Aug 17 01:42:43 CEST 2017]streamThreadName: 
+[Thu Aug 17 01:42:43 CEST 2017]instances: [ConfigurationBase{debug=true, user='null', password='null', httpConf=MyHttpClientConfiguration{httpProxyHost='null', httpProxyUser='null', httpProxyPassword='null', httpProxyPort=-1, httpConnectionTimeout=20000, httpReadTimeout=120000, prettyDebug=false, gzipEnabled=true}, httpStreamingReadTimeout=40000, httpRetryCount=0, httpRetryIntervalSeconds=5, oAuthConsumerKey='iX3dpWKxBvA5nCnxOVJ0vuc3I', oAuthConsumerSecret='bEFUrn4bKstuvNBA3eT7uVkBlQaQ83SP7oek9dCwWDz444br5B', oAuthAccessToken='897873358876028928-yQAb1GsiRACfRhlSftRD9WFk0In9fZi', oAuthAccessTokenSecret='sYFPtZo88swg4q4SL2B9Q1HPzZQAf3vtD2ftvtYJN7KcI', oAuth2TokenType='null', oAuth2AccessToken='null', oAuth2Scope='null', oAuthRequestTokenURL='https://api.twitter.com/oauth/request_token', oAuthAuthorizationURL='https://api.twitter.com/oauth/authorize', oAuthAccessTokenURL='https://api.twitter.com/oauth/access_token', oAuthAuthenticationURL='https://api.twitter.com/oauth/authenticate', oAuth2TokenURL='https://api.twitter.com/oauth2/token', oAuth2InvalidateTokenURL='https://api.twitter.com/oauth2/invalidate_token', restBaseURL='https://api.twitter.com/1.1/', streamBaseURL='https://stream.twitter.com/1.1/', userStreamBaseURL='https://userstream.twitter.com/1.1/', siteStreamBaseURL='https://sitestream.twitter.com/1.1/', uploadBaseURL='https://upload.twitter.com/1.1/', dispatcherImpl='twitter4j.DispatcherImpl', asyncNumThreads=1, loggerFactory='null', contributingTo=-1, includeMyRetweetEnabled=true, includeEntitiesEnabled=true, trimUserEnabled=false, includeExtAltTextEnabled=true, tweetModeExtended=false, includeEmailEnabled=false, jsonStoreEnabled=false, mbeanEnabled=false, userStreamRepliesAllEnabled=false, userStreamWithFollowingsEnabled=true, stallWarningsEnabled=true, applicationOnlyAuthEnabled=false, mediaProvider='TWITTER', mediaProviderAPIKey='null', mediaProviderParameters=null, daemonEnabled=true, streamThreadName=''}]
+[Thu Aug 17 01:42:43 CEST 2017]Request: 
+[Thu Aug 17 01:42:43 CEST 2017]POST https://api.twitter.com/1.1/statuses/update_with_media.json
+[Thu Aug 17 01:42:43 CEST 2017]OAuth base string: POST&https%3A%2F%2Fapi.twitter.com%2F1.1%2Fstatuses%2Fupdate_with_media.json&oauth_consumer_key%3DiX3dpWKxBvA5nCnxOVJ0vuc3I%26oauth_nonce%3D1871464559%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1502926963%26oauth_token%3D897873358876028928-yQAb1GsiRACfRhlSftRD9WFk0In9fZi%26oauth_version%3D1.0
+[Thu Aug 17 01:42:43 CEST 2017]OAuth signature: QTqzcMNZd7ML2YB2Ez9eMoH/5jE=
+[Thu Aug 17 01:42:43 CEST 2017]Authorization: *************************************************************************************************************************************************************************************************************************************************************************************
+[Thu Aug 17 01:42:43 CEST 2017]X-Twitter-Client-Version: 4.0.6
+[Thu Aug 17 01:42:43 CEST 2017]X-Twitter-Client-URL: http://twitter4j.org/en/twitter4j-4.0.6.xml
+[Thu Aug 17 01:42:43 CEST 2017]X-Twitter-Client: Twitter4J
+[Thu Aug 17 01:42:43 CEST 2017]User-Agent: twitter4j http://twitter4j.org/ /4.0.6
+[Thu Aug 17 01:42:43 CEST 2017]Accept-Encoding: gzip
+[Thu Aug 17 01:42:44 CEST 2017]------Twitter4J-upload1502926963751
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Disposition: form-data; name="status"
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 01:42:44 CEST 2017]Your daily dose of Greg. Now 2 days since famine.
+[Thu Aug 17 01:42:44 CEST 2017]
+
+[Thu Aug 17 01:42:44 CEST 2017]------Twitter4J-upload1502926963751
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Disposition: form-data; name="media[]"; filename="Screenshot_20170325-220817.png"
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Type: image/png
+
+
+[Thu Aug 17 01:42:44 CEST 2017]
+
+[Thu Aug 17 01:42:44 CEST 2017]------Twitter4J-upload1502926963751
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Disposition: form-data; name="possibly_sensitive"
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 01:42:44 CEST 2017]false
+[Thu Aug 17 01:42:44 CEST 2017]
+
+[Thu Aug 17 01:42:44 CEST 2017]------Twitter4J-upload1502926963751
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Disposition: form-data; name="include_entities"
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 01:42:44 CEST 2017]true
+[Thu Aug 17 01:42:44 CEST 2017]
+
+[Thu Aug 17 01:42:44 CEST 2017]------Twitter4J-upload1502926963751
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Disposition: form-data; name="include_ext_alt_text"
+
+[Thu Aug 17 01:42:44 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 01:42:44 CEST 2017]true
+[Thu Aug 17 01:42:44 CEST 2017]
+
+[Thu Aug 17 01:42:44 CEST 2017]------Twitter4J-upload1502926963751--
+
+[Thu Aug 17 01:42:44 CEST 2017]
+
+[Thu Aug 17 01:42:49 CEST 2017]Response: 
+[Thu Aug 17 01:42:49 CEST 2017]date: Wed, 16 Aug 2017 23:42:49 GMT
+[Thu Aug 17 01:42:49 CEST 2017]HTTP/1.1 200 OK
+[Thu Aug 17 01:42:49 CEST 2017]server: tsa_f
+[Thu Aug 17 01:42:49 CEST 2017]content-length: 1133
+[Thu Aug 17 01:42:49 CEST 2017]expires: Tue, 31 Mar 1981 05:00:00 GMT
+[Thu Aug 17 01:42:49 CEST 2017]x-response-time: 1820
+[Thu Aug 17 01:42:49 CEST 2017]x-frame-options: SAMEORIGIN
+[Thu Aug 17 01:42:49 CEST 2017]content-encoding: gzip
+[Thu Aug 17 01:42:49 CEST 2017]x-transaction: 00d55ed80086dba4
+[Thu Aug 17 01:42:49 CEST 2017]set-cookie: guest_id=v1%3A150292696808255112; Expires=Sat, 17 Aug 2019 02:42:49 IDT; Path=/; Domain=.twitter.com
+[Thu Aug 17 01:42:49 CEST 2017]set-cookie: lang=en; Path=/
+[Thu Aug 17 01:42:49 CEST 2017]set-cookie: personalization_id="v1_YRNv8Y17MochqfqadY+BvQ=="; Expires=Sat, 17 Aug 2019 02:42:49 IDT; Path=/; Domain=.twitter.com
+[Thu Aug 17 01:42:49 CEST 2017]last-modified: Wed, 16 Aug 2017 23:42:49 GMT
+[Thu Aug 17 01:42:49 CEST 2017]content-disposition: attachment; filename=json.json
+[Thu Aug 17 01:42:49 CEST 2017]x-connection-hash: 0600ef82ecd903cdf76fd7878ca67f3c
+[Thu Aug 17 01:42:49 CEST 2017]x-twitter-response-tags: BouncerCompliant
+[Thu Aug 17 01:42:49 CEST 2017]content-type: application/json;charset=utf-8
+[Thu Aug 17 01:42:49 CEST 2017]cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+[Thu Aug 17 01:42:49 CEST 2017]x-tsa-request-body-time: 3917
+[Thu Aug 17 01:42:49 CEST 2017]x-mediaratelimit-class: photos
+[Thu Aug 17 01:42:49 CEST 2017]strict-transport-security: max-age=631138519
+[Thu Aug 17 01:42:49 CEST 2017]pragma: no-cache
+[Thu Aug 17 01:42:49 CEST 2017]x-mediaratelimit-reset: 1503009283
+[Thu Aug 17 01:42:49 CEST 2017]x-xss-protection: 1; mode=block
+[Thu Aug 17 01:42:49 CEST 2017]x-mediaratelimit-limit: 3000
+[Thu Aug 17 01:42:49 CEST 2017]x-content-type-options: nosniff
+[Thu Aug 17 01:42:49 CEST 2017]x-mediaratelimit-remaining: 2989
+[Thu Aug 17 01:42:49 CEST 2017]x-access-level: read-write
+[Thu Aug 17 01:42:49 CEST 2017]status: 200 OK
+[Thu Aug 17 01:42:49 CEST 2017]{"extended_entities":{"media":[{"display_url":"pic.twitter.com/w7S2EyUxsQ","indices":[50,73],"sizes":{"small":{"w":383,"h":680,"resize":"fit"},"large":{"w":1080,"h":1920,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":675,"h":1200,"resize":"fit"}},"id_str":"897966904790454272","expanded_url":"https://twitter.com/GregGeorgeBot/status/897966909106380802/photo/1","media_url_https":"https://pbs.twimg.com/media/DHY4JGwXkAACDaP.jpg","id":897966904790454272,"type":"photo","media_url":"http://pbs.twimg.com/media/DHY4JGwXkAACDaP.jpg","url":"https://t.co/w7S2EyUxsQ"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"Wed Aug 16 23:42:49 +0000 2017","in_reply_to_user_id_str":null,"source":"<a href=\"http://elliotalexander.press\" rel=\"nofollow\">GregBotElllz<\/a>","retweet_count":0,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"897966909106380802","in_reply_to_user_id":null,"favorite_count":0,"id":897966909106380802,"text":"Your daily dose of Greg. Now 2 days since famine. https://t.co/w7S2EyUxsQ","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[],"hashtags":[],"media":[{"display_url":"pic.twitter.com/w7S2EyUxsQ","indices":[50,73],"sizes":{"small":{"w":383,"h":680,"resize":"fit"},"large":{"w":1080,"h":1920,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":675,"h":1200,"resize":"fit"}},"id_str":"897966904790454272","expanded_url":"https://twitter.com/GregGeorgeBot/status/897966909106380802/photo/1","media_url_https":"https://pbs.twimg.com/media/DHY4JGwXkAACDaP.jpg","id":897966904790454272,"type":"photo","media_url":"http://pbs.twimg.com/media/DHY4JGwXkAACDaP.jpg","url":"https://t.co/w7S2EyUxsQ"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":null,"friends_count":0,"profile_image_url_https":"https://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","listed_count":0,"profile_background_image_url":null,"default_profile_image":false,"favourites_count":0,"description":"The same photo of a passive aggressive 19 year old, every hour, every day, for the rest of time","created_at":"Wed Aug 16 17:31:05 +0000 2017","is_translator":false,"profile_background_image_url_https":null,"protected":false,"screen_name":"GregGeorgeBot","id_str":"897873358876028928","profile_link_color":"1DA1F2","is_translation_enabled":false,"translator_type":"none","id":897873358876028928,"geo_enabled":false,"profile_background_color":"F5F8FA","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"C0DEED","profile_text_color":"333333","verified":false,"profile_image_url":"http://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","time_zone":null,"url":null,"contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https://pbs.twimg.com/profile_banners/897873358876028928/1502904957","entities":{"description":{"urls":[]}},"statuses_count":4,"follow_request_sent":false,"followers_count":3,"profile_use_background_image":true,"default_profile":true,"following":false,"name":"Your daily Greg","location":"","profile_sidebar_fill_color":"DDEEF6","notifications":false}}
+[Thu Aug 17 01:45:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 01:45:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 01:45:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 01:45:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 01:45:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 01:45:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 01:50:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 01:50:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 01:50:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 01:50:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 01:50:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 01:50:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 01:55:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 01:55:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 01:55:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 01:55:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 01:55:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 01:55:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:00:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:00:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:00:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:00:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:00:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:00:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:05:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:05:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:05:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:05:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:05:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:05:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:10:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:10:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:10:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:10:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:10:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:10:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:15:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:15:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:15:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:15:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:15:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:15:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:20:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:20:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:20:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:20:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:20:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:20:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:25:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:25:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:25:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:25:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:25:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:25:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:30:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:30:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:30:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:30:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:30:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:30:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:35:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:35:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:35:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:35:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:35:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:35:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:40:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:40:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:40:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:40:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:40:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:40:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:45:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:45:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:45:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:45:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:45:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:45:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:50:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:50:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:50:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:50:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:50:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:50:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 02:55:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 02:55:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 02:55:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 02:55:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 02:55:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 02:55:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:00:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:00:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:00:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:00:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:00:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:00:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:05:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:05:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:05:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:05:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:05:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:05:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:10:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:10:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:10:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:10:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:10:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:10:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:15:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:15:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:15:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:15:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:15:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:15:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:20:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:20:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:20:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:20:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:20:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:20:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:25:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:25:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:25:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:25:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:25:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:25:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:30:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:30:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:30:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:30:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:30:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:30:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:35:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:35:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:35:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:35:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:35:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:35:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:40:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:40:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:40:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:40:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:40:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:40:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:45:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:45:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:45:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:45:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:45:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:45:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:50:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:50:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:50:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:50:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:50:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:50:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 03:55:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 03:55:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 03:55:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 03:55:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 03:55:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 03:55:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:00:20 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:00:20 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:00:20 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:00:20 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:00:20 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:00:20 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:00:20 CEST 2017]Request: 
+[Thu Aug 17 04:00:20 CEST 2017]POST https://api.twitter.com/1.1/statuses/update_with_media.json
+[Thu Aug 17 04:00:20 CEST 2017]OAuth base string: POST&https%3A%2F%2Fapi.twitter.com%2F1.1%2Fstatuses%2Fupdate_with_media.json&oauth_consumer_key%3DiX3dpWKxBvA5nCnxOVJ0vuc3I%26oauth_nonce%3D1646816810%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1502935220%26oauth_token%3D897873358876028928-yQAb1GsiRACfRhlSftRD9WFk0In9fZi%26oauth_version%3D1.0
+[Thu Aug 17 04:00:20 CEST 2017]OAuth signature: HQO4d5h91guVueO/Q4grWJ/ut5g=
+[Thu Aug 17 04:00:20 CEST 2017]Authorization: ***************************************************************************************************************************************************************************************************************************************************************************************
+[Thu Aug 17 04:00:20 CEST 2017]X-Twitter-Client-Version: 4.0.6
+[Thu Aug 17 04:00:20 CEST 2017]X-Twitter-Client-URL: http://twitter4j.org/en/twitter4j-4.0.6.xml
+[Thu Aug 17 04:00:20 CEST 2017]X-Twitter-Client: Twitter4J
+[Thu Aug 17 04:00:20 CEST 2017]User-Agent: twitter4j http://twitter4j.org/ /4.0.6
+[Thu Aug 17 04:00:20 CEST 2017]Accept-Encoding: gzip
+[Thu Aug 17 04:00:20 CEST 2017]------Twitter4J-upload1502935220292
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Disposition: form-data; name="status"
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 04:00:20 CEST 2017]Your daily dose of Greg. Now 2 days since famine.
+[Thu Aug 17 04:00:20 CEST 2017]
+
+[Thu Aug 17 04:00:20 CEST 2017]------Twitter4J-upload1502935220292
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Disposition: form-data; name="media[]"; filename="13942651_1083551405032363_1606864053_n.jpg"
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Type: image/jpeg
+
+
+[Thu Aug 17 04:00:20 CEST 2017]
+
+[Thu Aug 17 04:00:20 CEST 2017]------Twitter4J-upload1502935220292
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Disposition: form-data; name="possibly_sensitive"
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 04:00:20 CEST 2017]false
+[Thu Aug 17 04:00:20 CEST 2017]
+
+[Thu Aug 17 04:00:20 CEST 2017]------Twitter4J-upload1502935220292
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Disposition: form-data; name="include_entities"
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 04:00:20 CEST 2017]true
+[Thu Aug 17 04:00:20 CEST 2017]
+
+[Thu Aug 17 04:00:20 CEST 2017]------Twitter4J-upload1502935220292
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Disposition: form-data; name="include_ext_alt_text"
+
+[Thu Aug 17 04:00:20 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 04:00:20 CEST 2017]true
+[Thu Aug 17 04:00:20 CEST 2017]
+
+[Thu Aug 17 04:00:20 CEST 2017]------Twitter4J-upload1502935220292--
+
+[Thu Aug 17 04:00:20 CEST 2017]
+
+[Thu Aug 17 04:00:21 CEST 2017]Response: 
+[Thu Aug 17 04:00:21 CEST 2017]date: Thu, 17 Aug 2017 02:00:21 GMT
+[Thu Aug 17 04:00:21 CEST 2017]HTTP/1.1 200 OK
+[Thu Aug 17 04:00:21 CEST 2017]server: tsa_f
+[Thu Aug 17 04:00:21 CEST 2017]content-length: 1155
+[Thu Aug 17 04:00:21 CEST 2017]expires: Tue, 31 Mar 1981 05:00:00 GMT
+[Thu Aug 17 04:00:21 CEST 2017]x-response-time: 955
+[Thu Aug 17 04:00:21 CEST 2017]x-frame-options: SAMEORIGIN
+[Thu Aug 17 04:00:21 CEST 2017]content-encoding: gzip
+[Thu Aug 17 04:00:21 CEST 2017]x-transaction: 00de656700bcd4d5
+[Thu Aug 17 04:00:21 CEST 2017]set-cookie: guest_id=v1%3A150293522053586413; Expires=Sat, 17 Aug 2019 05:00:21 IDT; Path=/; Domain=.twitter.com
+[Thu Aug 17 04:00:21 CEST 2017]set-cookie: lang=en; Path=/
+[Thu Aug 17 04:00:21 CEST 2017]set-cookie: personalization_id="v1_Kkx7INnd+hUOgczxhf118g=="; Expires=Sat, 17 Aug 2019 05:00:21 IDT; Path=/; Domain=.twitter.com
+[Thu Aug 17 04:00:21 CEST 2017]last-modified: Thu, 17 Aug 2017 02:00:21 GMT
+[Thu Aug 17 04:00:21 CEST 2017]content-disposition: attachment; filename=json.json
+[Thu Aug 17 04:00:21 CEST 2017]x-connection-hash: 11a592675b53b8a8c106aa8a5c458e75
+[Thu Aug 17 04:00:21 CEST 2017]x-twitter-response-tags: BouncerCompliant
+[Thu Aug 17 04:00:21 CEST 2017]content-type: application/json;charset=utf-8
+[Thu Aug 17 04:00:21 CEST 2017]cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+[Thu Aug 17 04:00:21 CEST 2017]x-tsa-request-body-time: 107
+[Thu Aug 17 04:00:21 CEST 2017]x-mediaratelimit-class: photos
+[Thu Aug 17 04:00:21 CEST 2017]strict-transport-security: max-age=631138519
+[Thu Aug 17 04:00:21 CEST 2017]pragma: no-cache
+[Thu Aug 17 04:00:21 CEST 2017]x-mediaratelimit-reset: 1503009283
+[Thu Aug 17 04:00:21 CEST 2017]x-xss-protection: 1; mode=block
+[Thu Aug 17 04:00:21 CEST 2017]x-mediaratelimit-limit: 3000
+[Thu Aug 17 04:00:21 CEST 2017]x-content-type-options: nosniff
+[Thu Aug 17 04:00:21 CEST 2017]x-mediaratelimit-remaining: 2988
+[Thu Aug 17 04:00:21 CEST 2017]x-access-level: read-write
+[Thu Aug 17 04:00:21 CEST 2017]status: 200 OK
+[Thu Aug 17 04:00:21 CEST 2017]{"extended_entities":{"media":[{"display_url":"pic.twitter.com/Hy57wrhrTu","indices":[50,73],"sizes":{"small":{"w":383,"h":680,"resize":"fit"},"large":{"w":540,"h":960,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":540,"h":960,"resize":"fit"}},"id_str":"898001517961150468","expanded_url":"https://twitter.com/GregGeorgeBot/status/898001519752204288/photo/1","media_url_https":"https://pbs.twimg.com/media/DHZXn23WAAQV-vS.jpg","id":898001517961150468,"type":"photo","media_url":"http://pbs.twimg.com/media/DHZXn23WAAQV-vS.jpg","url":"https://t.co/Hy57wrhrTu"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"Thu Aug 17 02:00:21 +0000 2017","in_reply_to_user_id_str":null,"source":"<a href=\"http://elliotalexander.press\" rel=\"nofollow\">GregBotElllz<\/a>","retweet_count":0,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"898001519752204288","in_reply_to_user_id":null,"favorite_count":0,"id":898001519752204288,"text":"Your daily dose of Greg. Now 2 days since famine. https://t.co/Hy57wrhrTu","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[],"hashtags":[],"media":[{"display_url":"pic.twitter.com/Hy57wrhrTu","indices":[50,73],"sizes":{"small":{"w":383,"h":680,"resize":"fit"},"large":{"w":540,"h":960,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":540,"h":960,"resize":"fit"}},"id_str":"898001517961150468","expanded_url":"https://twitter.com/GregGeorgeBot/status/898001519752204288/photo/1","media_url_https":"https://pbs.twimg.com/media/DHZXn23WAAQV-vS.jpg","id":898001517961150468,"type":"photo","media_url":"http://pbs.twimg.com/media/DHZXn23WAAQV-vS.jpg","url":"https://t.co/Hy57wrhrTu"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":null,"friends_count":0,"profile_image_url_https":"https://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","listed_count":0,"profile_background_image_url":null,"default_profile_image":false,"favourites_count":0,"description":"The same photo of a passive aggressive 19 year old, every day, for the rest of time. beep boop I'm a bot","created_at":"Wed Aug 16 17:31:05 +0000 2017","is_translator":false,"profile_background_image_url_https":null,"protected":false,"screen_name":"GregGeorgeBot","id_str":"897873358876028928","profile_link_color":"1DA1F2","is_translation_enabled":false,"translator_type":"none","id":897873358876028928,"geo_enabled":false,"profile_background_color":"F5F8FA","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"C0DEED","profile_text_color":"333333","verified":false,"profile_image_url":"http://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","time_zone":null,"url":null,"contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https://pbs.twimg.com/profile_banners/897873358876028928/1502904957","entities":{"description":{"urls":[]}},"statuses_count":2,"follow_request_sent":false,"followers_count":3,"profile_use_background_image":true,"default_profile":true,"following":false,"name":"Your daily Greg","location":"Cheltenham,","profile_sidebar_fill_color":"DDEEF6","notifications":false}}
+[Thu Aug 17 04:00:21 CEST 2017] Sending tweet...
+[Thu Aug 17 04:05:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:05:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:05:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:05:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:05:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:05:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:10:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:10:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:10:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:10:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:10:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:10:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:15:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:15:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:15:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:15:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:15:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:15:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:20:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:20:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:20:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:20:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:20:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:20:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:25:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:25:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:25:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:25:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:25:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:25:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:30:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:30:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:30:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:30:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:30:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:30:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:35:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:35:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:35:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:35:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:35:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:35:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:40:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:40:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:40:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:40:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:40:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:40:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:45:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:45:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:45:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:45:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:45:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:45:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:50:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:50:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:50:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:50:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:50:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:50:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 04:55:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 04:55:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 04:55:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 04:55:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 04:55:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 04:55:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:00:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:00:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:00:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:00:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:00:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:00:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:05:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:05:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:05:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:05:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:05:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:05:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:10:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:10:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:10:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:10:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:10:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:10:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:15:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:15:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:15:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:15:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:15:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:15:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:20:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:20:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:20:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:20:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:20:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:20:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:25:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:25:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:25:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:25:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:25:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:25:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:30:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:30:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:30:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:30:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:30:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:30:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:35:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:35:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:35:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:35:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:35:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:35:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:40:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:40:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:40:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:40:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:40:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:40:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:45:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:45:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:45:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:45:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:45:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:45:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:50:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:50:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:50:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:50:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:50:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:50:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 05:55:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 05:55:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 05:55:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 05:55:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 05:55:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 05:55:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:00:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:00:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:00:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:00:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:00:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:00:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:05:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:05:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:05:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:05:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:05:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:05:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:10:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:10:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:10:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:10:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:10:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:10:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:15:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:15:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:15:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:15:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:15:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:15:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:20:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:20:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:20:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:20:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:20:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:20:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:25:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:25:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:25:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:25:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:25:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:25:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:30:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:30:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:30:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:30:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:30:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:30:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:35:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:35:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:35:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:35:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:35:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:35:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:40:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:40:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:40:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:40:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:40:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:40:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:45:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:45:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:45:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:45:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:45:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:45:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:50:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:50:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:50:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:50:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:50:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:50:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 06:55:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 06:55:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 06:55:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 06:55:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 06:55:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 06:55:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:00:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:00:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:00:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:00:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:00:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:00:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:05:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:05:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:05:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:05:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:05:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:05:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:10:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:10:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:10:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:10:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:10:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:10:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:15:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:15:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:15:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:15:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:15:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:15:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:20:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:20:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:20:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:20:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:20:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:20:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:25:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:25:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:25:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:25:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:25:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:25:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:30:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:30:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:30:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:30:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:30:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:30:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:35:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:35:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:35:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:35:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:35:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:35:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:40:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:40:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:40:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:40:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:40:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:40:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:45:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:45:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:45:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:45:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:45:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:45:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:50:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:50:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:50:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:50:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:50:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:50:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 07:55:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 07:55:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 07:55:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 07:55:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 07:55:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 07:55:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:00:21 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:00:21 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:00:21 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:00:21 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:00:21 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:00:21 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:00:21 CEST 2017]Request: 
+[Thu Aug 17 08:00:21 CEST 2017]POST https://api.twitter.com/1.1/statuses/update_with_media.json
+[Thu Aug 17 08:00:21 CEST 2017]OAuth base string: POST&https%3A%2F%2Fapi.twitter.com%2F1.1%2Fstatuses%2Fupdate_with_media.json&oauth_consumer_key%3DiX3dpWKxBvA5nCnxOVJ0vuc3I%26oauth_nonce%3D3013742532%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1502949621%26oauth_token%3D897873358876028928-yQAb1GsiRACfRhlSftRD9WFk0In9fZi%26oauth_version%3D1.0
+[Thu Aug 17 08:00:21 CEST 2017]OAuth signature: sVeGeZUxtP/7kIRTZI9R5CZ/JAc=
+[Thu Aug 17 08:00:21 CEST 2017]Authorization: ***************************************************************************************************************************************************************************************************************************************************************************************
+[Thu Aug 17 08:00:21 CEST 2017]X-Twitter-Client-Version: 4.0.6
+[Thu Aug 17 08:00:21 CEST 2017]X-Twitter-Client-URL: http://twitter4j.org/en/twitter4j-4.0.6.xml
+[Thu Aug 17 08:00:21 CEST 2017]X-Twitter-Client: Twitter4J
+[Thu Aug 17 08:00:21 CEST 2017]User-Agent: twitter4j http://twitter4j.org/ /4.0.6
+[Thu Aug 17 08:00:21 CEST 2017]Accept-Encoding: gzip
+[Thu Aug 17 08:00:21 CEST 2017]------Twitter4J-upload1502949621845
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Disposition: form-data; name="status"
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 08:00:21 CEST 2017]Your daily dose of Greg. Now 2 days since famine.
+[Thu Aug 17 08:00:21 CEST 2017]
+
+[Thu Aug 17 08:00:21 CEST 2017]------Twitter4J-upload1502949621845
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Disposition: form-data; name="media[]"; filename="greg.jpeg"
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Type: image/jpeg
+
+
+[Thu Aug 17 08:00:21 CEST 2017]
+
+[Thu Aug 17 08:00:21 CEST 2017]------Twitter4J-upload1502949621845
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Disposition: form-data; name="possibly_sensitive"
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 08:00:21 CEST 2017]false
+[Thu Aug 17 08:00:21 CEST 2017]
+
+[Thu Aug 17 08:00:21 CEST 2017]------Twitter4J-upload1502949621845
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Disposition: form-data; name="include_entities"
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 08:00:21 CEST 2017]true
+[Thu Aug 17 08:00:21 CEST 2017]
+
+[Thu Aug 17 08:00:21 CEST 2017]------Twitter4J-upload1502949621845
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Disposition: form-data; name="include_ext_alt_text"
+
+[Thu Aug 17 08:00:21 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 08:00:21 CEST 2017]true
+[Thu Aug 17 08:00:21 CEST 2017]
+
+[Thu Aug 17 08:00:21 CEST 2017]------Twitter4J-upload1502949621845--
+
+[Thu Aug 17 08:00:21 CEST 2017]
+
+[Thu Aug 17 08:00:23 CEST 2017]Response: 
+[Thu Aug 17 08:00:23 CEST 2017]date: Thu, 17 Aug 2017 06:00:23 GMT
+[Thu Aug 17 08:00:23 CEST 2017]HTTP/1.1 200 OK
+[Thu Aug 17 08:00:23 CEST 2017]server: tsa_f
+[Thu Aug 17 08:00:23 CEST 2017]content-length: 1158
+[Thu Aug 17 08:00:23 CEST 2017]expires: Tue, 31 Mar 1981 05:00:00 GMT
+[Thu Aug 17 08:00:23 CEST 2017]x-response-time: 1083
+[Thu Aug 17 08:00:23 CEST 2017]x-frame-options: SAMEORIGIN
+[Thu Aug 17 08:00:23 CEST 2017]content-encoding: gzip
+[Thu Aug 17 08:00:23 CEST 2017]x-transaction: 00a6b027008a6465
+[Thu Aug 17 08:00:23 CEST 2017]set-cookie: guest_id=v1%3A150294962228005217; Expires=Sat, 17 Aug 2019 06:00:23 UTC; Path=/; Domain=.twitter.com
+[Thu Aug 17 08:00:23 CEST 2017]set-cookie: lang=en; Path=/
+[Thu Aug 17 08:00:23 CEST 2017]set-cookie: personalization_id="v1_qrbyuNeJuOMvJh4KazIyZA=="; Expires=Sat, 17 Aug 2019 06:00:23 UTC; Path=/; Domain=.twitter.com
+[Thu Aug 17 08:00:23 CEST 2017]last-modified: Thu, 17 Aug 2017 06:00:23 GMT
+[Thu Aug 17 08:00:23 CEST 2017]content-disposition: attachment; filename=json.json
+[Thu Aug 17 08:00:23 CEST 2017]x-connection-hash: 1d86212ce50497403b1808ccb10527d6
+[Thu Aug 17 08:00:23 CEST 2017]x-twitter-response-tags: BouncerCompliant
+[Thu Aug 17 08:00:23 CEST 2017]content-type: application/json;charset=utf-8
+[Thu Aug 17 08:00:23 CEST 2017]cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+[Thu Aug 17 08:00:23 CEST 2017]x-tsa-request-body-time: 298
+[Thu Aug 17 08:00:23 CEST 2017]x-mediaratelimit-class: photos
+[Thu Aug 17 08:00:23 CEST 2017]strict-transport-security: max-age=631138519
+[Thu Aug 17 08:00:23 CEST 2017]pragma: no-cache
+[Thu Aug 17 08:00:23 CEST 2017]x-mediaratelimit-reset: 1503009283
+[Thu Aug 17 08:00:23 CEST 2017]x-xss-protection: 1; mode=block
+[Thu Aug 17 08:00:23 CEST 2017]x-mediaratelimit-limit: 3000
+[Thu Aug 17 08:00:23 CEST 2017]x-content-type-options: nosniff
+[Thu Aug 17 08:00:23 CEST 2017]x-mediaratelimit-remaining: 2987
+[Thu Aug 17 08:00:23 CEST 2017]x-access-level: read-write
+[Thu Aug 17 08:00:23 CEST 2017]status: 200 OK
+[Thu Aug 17 08:00:23 CEST 2017]{"extended_entities":{"media":[{"display_url":"pic.twitter.com/mjOqziwclv","indices":[50,73],"sizes":{"small":{"w":510,"h":680,"resize":"fit"},"large":{"w":1440,"h":1920,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":900,"h":1200,"resize":"fit"}},"id_str":"898061923090137088","expanded_url":"https://twitter.com/GregGeorgeBot/status/898061925501865984/photo/1","media_url_https":"https://pbs.twimg.com/media/DHaOj5gXgAAjFg3.jpg","id":898061923090137088,"type":"photo","media_url":"http://pbs.twimg.com/media/DHaOj5gXgAAjFg3.jpg","url":"https://t.co/mjOqziwclv"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"Thu Aug 17 06:00:22 +0000 2017","in_reply_to_user_id_str":null,"source":"<a href=\"http://elliotalexander.press\" rel=\"nofollow\">GregBotElllz<\/a>","retweet_count":0,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"898061925501865984","in_reply_to_user_id":null,"favorite_count":0,"id":898061925501865984,"text":"Your daily dose of Greg. Now 2 days since famine. https://t.co/mjOqziwclv","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[],"hashtags":[],"media":[{"display_url":"pic.twitter.com/mjOqziwclv","indices":[50,73],"sizes":{"small":{"w":510,"h":680,"resize":"fit"},"large":{"w":1440,"h":1920,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":900,"h":1200,"resize":"fit"}},"id_str":"898061923090137088","expanded_url":"https://twitter.com/GregGeorgeBot/status/898061925501865984/photo/1","media_url_https":"https://pbs.twimg.com/media/DHaOj5gXgAAjFg3.jpg","id":898061923090137088,"type":"photo","media_url":"http://pbs.twimg.com/media/DHaOj5gXgAAjFg3.jpg","url":"https://t.co/mjOqziwclv"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":null,"friends_count":0,"profile_image_url_https":"https://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","listed_count":0,"profile_background_image_url":null,"default_profile_image":false,"favourites_count":0,"description":"The same photo of a passive aggressive 19 year old, every day, for the rest of time. beep boop I'm a bot","created_at":"Wed Aug 16 17:31:05 +0000 2017","is_translator":false,"profile_background_image_url_https":null,"protected":false,"screen_name":"GregGeorgeBot","id_str":"897873358876028928","profile_link_color":"1DA1F2","is_translation_enabled":false,"translator_type":"none","id":897873358876028928,"geo_enabled":false,"profile_background_color":"F5F8FA","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"C0DEED","profile_text_color":"333333","verified":false,"profile_image_url":"http://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","time_zone":null,"url":null,"contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https://pbs.twimg.com/profile_banners/897873358876028928/1502904957","entities":{"description":{"urls":[]}},"statuses_count":3,"follow_request_sent":false,"followers_count":3,"profile_use_background_image":true,"default_profile":true,"following":false,"name":"Your daily Greg","location":"Cheltenham,","profile_sidebar_fill_color":"DDEEF6","notifications":false}}
+[Thu Aug 17 08:00:23 CEST 2017] Sending tweet...
+[Thu Aug 17 08:05:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:05:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:05:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:05:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:05:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:05:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:10:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:10:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:10:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:10:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:10:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:10:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:15:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:15:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:15:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:15:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:15:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:15:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:20:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:20:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:20:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:20:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:20:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:20:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:25:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:25:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:25:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:25:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:25:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:25:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:30:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:30:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:30:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:30:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:30:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:30:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:35:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:35:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:35:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:35:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:35:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:35:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:40:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:40:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:40:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:40:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:40:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:40:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:45:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:45:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:45:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:45:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:45:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:45:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:50:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:50:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:50:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:50:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:50:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:50:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 08:55:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 08:55:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 08:55:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 08:55:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 08:55:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 08:55:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:00:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:00:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:00:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:00:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:00:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:00:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:05:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:05:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:05:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:05:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:05:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:05:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:10:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:10:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:10:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:10:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:10:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:10:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:15:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:15:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:15:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:15:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:15:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:15:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:20:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:20:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:20:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:20:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:20:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:20:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:25:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:25:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:25:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:25:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:25:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:25:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:30:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:30:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:30:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:30:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:30:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:30:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:35:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:35:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:35:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:35:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:35:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:35:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:40:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:40:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:40:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:40:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:40:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:40:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:45:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:45:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:45:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:45:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:45:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:45:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:50:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:50:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:50:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:50:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:50:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:50:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 09:55:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 09:55:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 09:55:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 09:55:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 09:55:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 09:55:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:00:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:00:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:00:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:00:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:00:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:00:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:05:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:05:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:05:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:05:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:05:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:05:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:10:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:10:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:10:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:10:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:10:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:10:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:15:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:15:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:15:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:15:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:15:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:15:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:20:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:20:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:20:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:20:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:20:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:20:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:25:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:25:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:25:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:25:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:25:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:25:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:30:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:30:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:30:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:30:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:30:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:30:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:35:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:35:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:35:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:35:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:35:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:35:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:40:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:40:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:40:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:40:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:40:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:40:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:45:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:45:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:45:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:45:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:45:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:45:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:50:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:50:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:50:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:50:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:50:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:50:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 10:55:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 10:55:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 10:55:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 10:55:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 10:55:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 10:55:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:00:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:00:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:00:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:00:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:00:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:00:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:05:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:05:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:05:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:05:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:05:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:05:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:10:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:10:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:10:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:10:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:10:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:10:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:15:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:15:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:15:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:15:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:15:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:15:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:20:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:20:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:20:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:20:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:20:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:20:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:25:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:25:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:25:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:25:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:25:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:25:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:30:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:30:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:30:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:30:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:30:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:30:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:35:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:35:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:35:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:35:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:35:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:35:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:40:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:40:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:40:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:40:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:40:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:40:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:45:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:45:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:45:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:45:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:45:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:45:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:50:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:50:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:50:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:50:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:50:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:50:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 11:55:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 11:55:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 11:55:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 11:55:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 11:55:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 11:55:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:00:23 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:00:23 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:00:23 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:00:23 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:00:23 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:00:23 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:00:23 CEST 2017]Request: 
+[Thu Aug 17 12:00:23 CEST 2017]POST https://api.twitter.com/1.1/statuses/update_with_media.json
+[Thu Aug 17 12:00:23 CEST 2017]OAuth base string: POST&https%3A%2F%2Fapi.twitter.com%2F1.1%2Fstatuses%2Fupdate_with_media.json&oauth_consumer_key%3DiX3dpWKxBvA5nCnxOVJ0vuc3I%26oauth_nonce%3D3269421371%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1502964023%26oauth_token%3D897873358876028928-yQAb1GsiRACfRhlSftRD9WFk0In9fZi%26oauth_version%3D1.0
+[Thu Aug 17 12:00:23 CEST 2017]OAuth signature: yg0yuOwnxkJjlu7WTjIUC6GojVQ=
+[Thu Aug 17 12:00:23 CEST 2017]Authorization: ***********************************************************************************************************************************************************************************************************************************************************************************
+[Thu Aug 17 12:00:23 CEST 2017]X-Twitter-Client-Version: 4.0.6
+[Thu Aug 17 12:00:23 CEST 2017]X-Twitter-Client-URL: http://twitter4j.org/en/twitter4j-4.0.6.xml
+[Thu Aug 17 12:00:23 CEST 2017]X-Twitter-Client: Twitter4J
+[Thu Aug 17 12:00:23 CEST 2017]User-Agent: twitter4j http://twitter4j.org/ /4.0.6
+[Thu Aug 17 12:00:23 CEST 2017]Accept-Encoding: gzip
+[Thu Aug 17 12:00:23 CEST 2017]------Twitter4J-upload1502964023652
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Disposition: form-data; name="status"
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 12:00:23 CEST 2017]Your daily dose of Greg. Now 2 days since famine.
+[Thu Aug 17 12:00:23 CEST 2017]
+
+[Thu Aug 17 12:00:23 CEST 2017]------Twitter4J-upload1502964023652
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Disposition: form-data; name="media[]"; filename="received_1029053687148802.jpeg"
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Type: image/jpeg
+
+
+[Thu Aug 17 12:00:23 CEST 2017]
+
+[Thu Aug 17 12:00:23 CEST 2017]------Twitter4J-upload1502964023652
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Disposition: form-data; name="possibly_sensitive"
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 12:00:23 CEST 2017]false
+[Thu Aug 17 12:00:23 CEST 2017]
+
+[Thu Aug 17 12:00:23 CEST 2017]------Twitter4J-upload1502964023652
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Disposition: form-data; name="include_entities"
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 12:00:23 CEST 2017]true
+[Thu Aug 17 12:00:23 CEST 2017]
+
+[Thu Aug 17 12:00:23 CEST 2017]------Twitter4J-upload1502964023652
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Disposition: form-data; name="include_ext_alt_text"
+
+[Thu Aug 17 12:00:23 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 12:00:23 CEST 2017]true
+[Thu Aug 17 12:00:23 CEST 2017]
+
+[Thu Aug 17 12:00:23 CEST 2017]------Twitter4J-upload1502964023652--
+
+[Thu Aug 17 12:00:23 CEST 2017]
+
+[Thu Aug 17 12:00:25 CEST 2017]Response: 
+[Thu Aug 17 12:00:25 CEST 2017]date: Thu, 17 Aug 2017 10:00:25 GMT
+[Thu Aug 17 12:00:25 CEST 2017]HTTP/1.1 200 OK
+[Thu Aug 17 12:00:25 CEST 2017]server: tsa_f
+[Thu Aug 17 12:00:25 CEST 2017]content-length: 1161
+[Thu Aug 17 12:00:25 CEST 2017]expires: Tue, 31 Mar 1981 05:00:00 GMT
+[Thu Aug 17 12:00:25 CEST 2017]x-response-time: 1273
+[Thu Aug 17 12:00:25 CEST 2017]x-frame-options: SAMEORIGIN
+[Thu Aug 17 12:00:25 CEST 2017]content-encoding: gzip
+[Thu Aug 17 12:00:25 CEST 2017]x-transaction: 006fc6020026a576
+[Thu Aug 17 12:00:25 CEST 2017]set-cookie: guest_id=v1%3A150296402410069879; Expires=Sat, 17 Aug 2019 10:00:25 UTC; Path=/; Domain=.twitter.com
+[Thu Aug 17 12:00:25 CEST 2017]set-cookie: lang=en; Path=/
+[Thu Aug 17 12:00:25 CEST 2017]set-cookie: personalization_id="v1_1dWd4eirwrAmfKuznZEAdg=="; Expires=Sat, 17 Aug 2019 10:00:25 UTC; Path=/; Domain=.twitter.com
+[Thu Aug 17 12:00:25 CEST 2017]last-modified: Thu, 17 Aug 2017 10:00:25 GMT
+[Thu Aug 17 12:00:25 CEST 2017]content-disposition: attachment; filename=json.json
+[Thu Aug 17 12:00:25 CEST 2017]x-connection-hash: 4922651b8c04ff79e8405f8a8893cde3
+[Thu Aug 17 12:00:25 CEST 2017]x-twitter-response-tags: BouncerCompliant
+[Thu Aug 17 12:00:25 CEST 2017]content-type: application/json;charset=utf-8
+[Thu Aug 17 12:00:25 CEST 2017]cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+[Thu Aug 17 12:00:25 CEST 2017]x-tsa-request-body-time: 298
+[Thu Aug 17 12:00:25 CEST 2017]x-mediaratelimit-class: photos
+[Thu Aug 17 12:00:25 CEST 2017]strict-transport-security: max-age=631138519
+[Thu Aug 17 12:00:25 CEST 2017]pragma: no-cache
+[Thu Aug 17 12:00:25 CEST 2017]x-mediaratelimit-reset: 1503009283
+[Thu Aug 17 12:00:25 CEST 2017]x-xss-protection: 1; mode=block
+[Thu Aug 17 12:00:25 CEST 2017]x-mediaratelimit-limit: 3000
+[Thu Aug 17 12:00:25 CEST 2017]x-content-type-options: nosniff
+[Thu Aug 17 12:00:25 CEST 2017]x-mediaratelimit-remaining: 2986
+[Thu Aug 17 12:00:25 CEST 2017]x-access-level: read-write
+[Thu Aug 17 12:00:25 CEST 2017]status: 200 OK
+[Thu Aug 17 12:00:25 CEST 2017]{"extended_entities":{"media":[{"display_url":"pic.twitter.com/VtoHRwU0QB","indices":[50,73],"sizes":{"small":{"w":510,"h":680,"resize":"fit"},"large":{"w":960,"h":1280,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":900,"h":1200,"resize":"fit"}},"id_str":"898122328680300544","expanded_url":"https://twitter.com/GregGeorgeBot/status/898122331595341825/photo/1","media_url_https":"https://pbs.twimg.com/media/DHbFf93WAAAao6t.jpg","id":898122328680300544,"type":"photo","media_url":"http://pbs.twimg.com/media/DHbFf93WAAAao6t.jpg","url":"https://t.co/VtoHRwU0QB"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"Thu Aug 17 10:00:24 +0000 2017","in_reply_to_user_id_str":null,"source":"<a href=\"http://elliotalexander.press\" rel=\"nofollow\">GregBotElllz<\/a>","retweet_count":0,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"898122331595341825","in_reply_to_user_id":null,"favorite_count":0,"id":898122331595341825,"text":"Your daily dose of Greg. Now 2 days since famine. https://t.co/VtoHRwU0QB","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[],"hashtags":[],"media":[{"display_url":"pic.twitter.com/VtoHRwU0QB","indices":[50,73],"sizes":{"small":{"w":510,"h":680,"resize":"fit"},"large":{"w":960,"h":1280,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":900,"h":1200,"resize":"fit"}},"id_str":"898122328680300544","expanded_url":"https://twitter.com/GregGeorgeBot/status/898122331595341825/photo/1","media_url_https":"https://pbs.twimg.com/media/DHbFf93WAAAao6t.jpg","id":898122328680300544,"type":"photo","media_url":"http://pbs.twimg.com/media/DHbFf93WAAAao6t.jpg","url":"https://t.co/VtoHRwU0QB"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":null,"friends_count":0,"profile_image_url_https":"https://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","listed_count":0,"profile_background_image_url":null,"default_profile_image":false,"favourites_count":0,"description":"The same photo of a passive aggressive 19 year old, every day, for the rest of time. beep boop I'm a bot","created_at":"Wed Aug 16 17:31:05 +0000 2017","is_translator":false,"profile_background_image_url_https":null,"protected":false,"screen_name":"GregGeorgeBot","id_str":"897873358876028928","profile_link_color":"1DA1F2","is_translation_enabled":false,"translator_type":"none","id":897873358876028928,"geo_enabled":false,"profile_background_color":"F5F8FA","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"C0DEED","profile_text_color":"333333","verified":false,"profile_image_url":"http://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","time_zone":null,"url":null,"contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https://pbs.twimg.com/profile_banners/897873358876028928/1502904957","entities":{"description":{"urls":[]}},"statuses_count":4,"follow_request_sent":false,"followers_count":4,"profile_use_background_image":true,"default_profile":true,"following":false,"name":"Your daily Greg","location":"Cheltenham,","profile_sidebar_fill_color":"DDEEF6","notifications":false}}
+[Thu Aug 17 12:00:25 CEST 2017] Sending tweet...
+[Thu Aug 17 12:05:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:05:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:05:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:05:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:05:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:05:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:10:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:10:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:10:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:10:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:10:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:10:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:15:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:15:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:15:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:15:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:15:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:15:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:20:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:20:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:20:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:20:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:20:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:20:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:25:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:25:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:25:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:25:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:25:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:25:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:30:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:30:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:30:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:30:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:30:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:30:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:35:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:35:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:35:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:35:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:35:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:35:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:40:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:40:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:40:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:40:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:40:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:40:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:45:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:45:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:45:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:45:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:45:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:45:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:50:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:50:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:50:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:50:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:50:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:50:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 12:55:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 12:55:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 12:55:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 12:55:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 12:55:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 12:55:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:00:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:00:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:00:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:00:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:00:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:00:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:05:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:05:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:05:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:05:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:05:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:05:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:10:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:10:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:10:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:10:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:10:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:10:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:15:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:15:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:15:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:15:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:15:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:15:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:20:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:20:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:20:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:20:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:20:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:20:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:25:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:25:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:25:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:25:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:25:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:25:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:30:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:30:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:30:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:30:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:30:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:30:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:35:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:35:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:35:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:35:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:35:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:35:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:40:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:40:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:40:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:40:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:40:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:40:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:45:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:45:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:45:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:45:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:45:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:45:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:50:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:50:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:50:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:50:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:50:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:50:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 13:55:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 13:55:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 13:55:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 13:55:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 13:55:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 13:55:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:00:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:00:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:00:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:00:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:00:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:00:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:05:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:05:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:05:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:05:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:05:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:05:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:10:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:10:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:10:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:10:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:10:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:10:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:15:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:15:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:15:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:15:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:15:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:15:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:20:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:20:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:20:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:20:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:20:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:20:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:25:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:25:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:25:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:25:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:25:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:25:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:30:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:30:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:30:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:30:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:30:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:30:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:35:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:35:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:35:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:35:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:35:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:35:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:40:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:40:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:40:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:40:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:40:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:40:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:45:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:45:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:45:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:45:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:45:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:45:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:50:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:50:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:50:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:50:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:50:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:50:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 14:55:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 14:55:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 14:55:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 14:55:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 14:55:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 14:55:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:00:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:00:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:00:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:00:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:00:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:00:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:05:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:05:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:05:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:05:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:05:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:05:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:10:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:10:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:10:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:10:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:10:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:10:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:15:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:15:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:15:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:15:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:15:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:15:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:20:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:20:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:20:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:20:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:20:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:20:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:25:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:25:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:25:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:25:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:25:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:25:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:30:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:30:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:30:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:30:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:30:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:30:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:35:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:35:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:35:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:35:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:35:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:35:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:40:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:40:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:40:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:40:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:40:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:40:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:45:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:45:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:45:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:45:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:45:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:45:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:50:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:50:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:50:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:50:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:50:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:50:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 15:55:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 15:55:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 15:55:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 15:55:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 15:55:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 15:55:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:00:25 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:00:25 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:00:25 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:00:25 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:00:25 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:00:25 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:00:25 CEST 2017]Request: 
+[Thu Aug 17 16:00:25 CEST 2017]POST https://api.twitter.com/1.1/statuses/update_with_media.json
+[Thu Aug 17 16:00:25 CEST 2017]OAuth base string: POST&https%3A%2F%2Fapi.twitter.com%2F1.1%2Fstatuses%2Fupdate_with_media.json&oauth_consumer_key%3DiX3dpWKxBvA5nCnxOVJ0vuc3I%26oauth_nonce%3D1403543100%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1502978425%26oauth_token%3D897873358876028928-yQAb1GsiRACfRhlSftRD9WFk0In9fZi%26oauth_version%3D1.0
+[Thu Aug 17 16:00:25 CEST 2017]OAuth signature: ck0AdiTIWkAcqUMiwPja0QlcUM4=
+[Thu Aug 17 16:00:25 CEST 2017]Authorization: ***********************************************************************************************************************************************************************************************************************************************************************************
+[Thu Aug 17 16:00:25 CEST 2017]X-Twitter-Client-Version: 4.0.6
+[Thu Aug 17 16:00:25 CEST 2017]X-Twitter-Client-URL: http://twitter4j.org/en/twitter4j-4.0.6.xml
+[Thu Aug 17 16:00:25 CEST 2017]X-Twitter-Client: Twitter4J
+[Thu Aug 17 16:00:25 CEST 2017]User-Agent: twitter4j http://twitter4j.org/ /4.0.6
+[Thu Aug 17 16:00:25 CEST 2017]Accept-Encoding: gzip
+[Thu Aug 17 16:00:25 CEST 2017]------Twitter4J-upload1502978425640
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Disposition: form-data; name="status"
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 16:00:25 CEST 2017]Your daily dose of Greg. Now 2 days since famine.
+[Thu Aug 17 16:00:25 CEST 2017]
+
+[Thu Aug 17 16:00:25 CEST 2017]------Twitter4J-upload1502978425640
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Disposition: form-data; name="media[]"; filename="Screenshot_20170216-084842.png"
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Type: image/png
+
+
+[Thu Aug 17 16:00:25 CEST 2017]
+
+[Thu Aug 17 16:00:25 CEST 2017]------Twitter4J-upload1502978425640
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Disposition: form-data; name="possibly_sensitive"
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 16:00:25 CEST 2017]false
+[Thu Aug 17 16:00:25 CEST 2017]
+
+[Thu Aug 17 16:00:25 CEST 2017]------Twitter4J-upload1502978425640
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Disposition: form-data; name="include_entities"
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 16:00:25 CEST 2017]true
+[Thu Aug 17 16:00:25 CEST 2017]
+
+[Thu Aug 17 16:00:25 CEST 2017]------Twitter4J-upload1502978425640
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Disposition: form-data; name="include_ext_alt_text"
+
+[Thu Aug 17 16:00:25 CEST 2017]Content-Type: text/plain; charset=UTF-8
+
+
+[Thu Aug 17 16:00:25 CEST 2017]true
+[Thu Aug 17 16:00:25 CEST 2017]
+
+[Thu Aug 17 16:00:25 CEST 2017]------Twitter4J-upload1502978425640--
+
+[Thu Aug 17 16:00:25 CEST 2017]
+
+[Thu Aug 17 16:00:30 CEST 2017]Response: 
+[Thu Aug 17 16:00:30 CEST 2017]date: Thu, 17 Aug 2017 14:00:30 GMT
+[Thu Aug 17 16:00:30 CEST 2017]HTTP/1.1 200 OK
+[Thu Aug 17 16:00:30 CEST 2017]server: tsa_f
+[Thu Aug 17 16:00:30 CEST 2017]content-length: 1164
+[Thu Aug 17 16:00:30 CEST 2017]expires: Tue, 31 Mar 1981 05:00:00 GMT
+[Thu Aug 17 16:00:30 CEST 2017]x-response-time: 1560
+[Thu Aug 17 16:00:30 CEST 2017]x-frame-options: SAMEORIGIN
+[Thu Aug 17 16:00:30 CEST 2017]content-encoding: gzip
+[Thu Aug 17 16:00:30 CEST 2017]x-transaction: 005acb3500f869b7
+[Thu Aug 17 16:00:30 CEST 2017]set-cookie: guest_id=v1%3A150297842919868473; Expires=Sat, 17 Aug 2019 14:00:30 UTC; Path=/; Domain=.twitter.com
+[Thu Aug 17 16:00:30 CEST 2017]set-cookie: lang=en; Path=/
+[Thu Aug 17 16:00:30 CEST 2017]set-cookie: personalization_id="v1_9ARKYS8WWw72YNPvw8KvSw=="; Expires=Sat, 17 Aug 2019 14:00:30 UTC; Path=/; Domain=.twitter.com
+[Thu Aug 17 16:00:30 CEST 2017]last-modified: Thu, 17 Aug 2017 14:00:30 GMT
+[Thu Aug 17 16:00:30 CEST 2017]content-disposition: attachment; filename=json.json
+[Thu Aug 17 16:00:30 CEST 2017]x-connection-hash: 275539ce8f5851a43443c01d731cb1e6
+[Thu Aug 17 16:00:30 CEST 2017]x-twitter-response-tags: BouncerCompliant
+[Thu Aug 17 16:00:30 CEST 2017]content-type: application/json;charset=utf-8
+[Thu Aug 17 16:00:30 CEST 2017]cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+[Thu Aug 17 16:00:30 CEST 2017]x-tsa-request-body-time: 3426
+[Thu Aug 17 16:00:30 CEST 2017]x-mediaratelimit-class: photos
+[Thu Aug 17 16:00:30 CEST 2017]strict-transport-security: max-age=631138519
+[Thu Aug 17 16:00:30 CEST 2017]pragma: no-cache
+[Thu Aug 17 16:00:30 CEST 2017]x-mediaratelimit-reset: 1503009283
+[Thu Aug 17 16:00:30 CEST 2017]x-xss-protection: 1; mode=block
+[Thu Aug 17 16:00:30 CEST 2017]x-mediaratelimit-limit: 3000
+[Thu Aug 17 16:00:30 CEST 2017]x-content-type-options: nosniff
+[Thu Aug 17 16:00:30 CEST 2017]x-mediaratelimit-remaining: 2985
+[Thu Aug 17 16:00:30 CEST 2017]x-access-level: read-write
+[Thu Aug 17 16:00:30 CEST 2017]status: 200 OK
+[Thu Aug 17 16:00:30 CEST 2017]{"extended_entities":{"media":[{"display_url":"pic.twitter.com/pS3DBWZ5vR","indices":[50,73],"sizes":{"small":{"w":383,"h":680,"resize":"fit"},"large":{"w":1080,"h":1920,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":675,"h":1200,"resize":"fit"}},"id_str":"898182748409647104","expanded_url":"https://twitter.com/GregGeorgeBot/status/898182751731548160/photo/1","media_url_https":"https://pbs.twimg.com/media/DHb8c25XUAAGupc.jpg","id":898182748409647104,"type":"photo","media_url":"http://pbs.twimg.com/media/DHb8c25XUAAGupc.jpg","url":"https://t.co/pS3DBWZ5vR"}]},"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"created_at":"Thu Aug 17 14:00:30 +0000 2017","in_reply_to_user_id_str":null,"source":"<a href=\"http://elliotalexander.press\" rel=\"nofollow\">GregBotElllz<\/a>","retweet_count":0,"retweeted":false,"geo":null,"in_reply_to_screen_name":null,"is_quote_status":false,"id_str":"898182751731548160","in_reply_to_user_id":null,"favorite_count":0,"id":898182751731548160,"text":"Your daily dose of Greg. Now 2 days since famine. https://t.co/pS3DBWZ5vR","place":null,"lang":"en","favorited":false,"possibly_sensitive":false,"coordinates":null,"truncated":false,"entities":{"urls":[],"hashtags":[],"media":[{"display_url":"pic.twitter.com/pS3DBWZ5vR","indices":[50,73],"sizes":{"small":{"w":383,"h":680,"resize":"fit"},"large":{"w":1080,"h":1920,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":675,"h":1200,"resize":"fit"}},"id_str":"898182748409647104","expanded_url":"https://twitter.com/GregGeorgeBot/status/898182751731548160/photo/1","media_url_https":"https://pbs.twimg.com/media/DHb8c25XUAAGupc.jpg","id":898182748409647104,"type":"photo","media_url":"http://pbs.twimg.com/media/DHb8c25XUAAGupc.jpg","url":"https://t.co/pS3DBWZ5vR"}],"user_mentions":[],"symbols":[]},"contributors":null,"user":{"utc_offset":null,"friends_count":0,"profile_image_url_https":"https://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","listed_count":0,"profile_background_image_url":null,"default_profile_image":false,"favourites_count":0,"description":"The same photo of a passive aggressive 19 year old, every day, for the rest of time. beep boop I'm a bot","created_at":"Wed Aug 16 17:31:05 +0000 2017","is_translator":false,"profile_background_image_url_https":null,"protected":false,"screen_name":"GregGeorgeBot","id_str":"897873358876028928","profile_link_color":"1DA1F2","is_translation_enabled":false,"translator_type":"none","id":897873358876028928,"geo_enabled":false,"profile_background_color":"F5F8FA","lang":"en","has_extended_profile":false,"profile_sidebar_border_color":"C0DEED","profile_text_color":"333333","verified":false,"profile_image_url":"http://pbs.twimg.com/profile_images/897874389898858498/Z38qx4ss_normal.jpg","time_zone":null,"url":null,"contributors_enabled":false,"profile_background_tile":false,"profile_banner_url":"https://pbs.twimg.com/profile_banners/897873358876028928/1502904957","entities":{"description":{"urls":[]}},"statuses_count":6,"follow_request_sent":false,"followers_count":5,"profile_use_background_image":true,"default_profile":true,"following":false,"name":"Your daily Greg","location":"Cheltenham,","profile_sidebar_fill_color":"DDEEF6","notifications":false}}
+[Thu Aug 17 16:00:30 CEST 2017] Sending tweet...
+[Thu Aug 17 16:05:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:05:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:05:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:05:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:05:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:05:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:10:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:10:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:10:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:10:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:10:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:10:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:15:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:15:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:15:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:15:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:15:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:15:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:20:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:20:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:20:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:20:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:20:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:20:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:25:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:25:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:25:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:25:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:25:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:25:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:30:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:30:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:30:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:30:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:30:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:30:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:35:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:35:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:35:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:35:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:35:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:35:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:40:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:40:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:40:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:40:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:40:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:40:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:45:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:45:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:45:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:45:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:45:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:45:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:50:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:50:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:50:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:50:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:50:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:50:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 16:55:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 16:55:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 16:55:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 16:55:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 16:55:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 16:55:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:00:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:00:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:00:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:00:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:00:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:00:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:05:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:05:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:05:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:05:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:05:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:05:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:10:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:10:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:10:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:10:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:10:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:10:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:15:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:15:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:15:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:15:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:15:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:15:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:20:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:20:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:20:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:20:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:20:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:20:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:25:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:25:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:25:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:25:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:25:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:25:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:30:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:30:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:30:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:30:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:30:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:30:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:35:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:35:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:35:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:35:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:35:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:35:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:40:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:40:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:40:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:40:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:40:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:40:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:45:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:45:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:45:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:45:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:45:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:45:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:50:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:50:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:50:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:50:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:50:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:50:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 17:55:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 17:55:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 17:55:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 17:55:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 17:55:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 17:55:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:00:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:00:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:00:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:00:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:00:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:00:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:05:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:05:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:05:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:05:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:05:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:05:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:10:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:10:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:10:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:10:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:10:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:10:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:15:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:15:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:15:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:15:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:15:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:15:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:20:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:20:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:20:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:20:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:20:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:20:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:25:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:25:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:25:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:25:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:25:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:25:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:30:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:30:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:30:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:30:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:30:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:30:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:35:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:35:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:35:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:35:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:35:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:35:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:40:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:40:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:40:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:40:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:40:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:40:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:45:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:45:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:45:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:45:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:45:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:45:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:50:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:50:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:50:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:50:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:50:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:50:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 18:55:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 18:55:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 18:55:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 18:55:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 18:55:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 18:55:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 19:00:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 19:00:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 19:00:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 19:00:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 19:00:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 19:00:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 19:05:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 19:05:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 19:05:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 19:05:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 19:05:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 19:05:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 19:10:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 19:10:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 19:10:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 19:10:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 19:10:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 19:10:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 19:15:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 19:15:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 19:15:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 19:15:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 19:15:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 19:15:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 19:20:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 19:20:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 19:20:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 19:20:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 19:20:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 19:20:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 19:25:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 19:25:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 19:25:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 19:25:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 19:25:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 19:25:00 CEST 2017] Refreshing Config...
+[Thu Aug 17 19:30:00 CEST 2017] Loaded config refresh rates. {[5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 0]}
+[Thu Aug 17 19:30:00 CEST 2017] Loaded day count. (2)
+[Thu Aug 17 19:30:00 CEST 2017] Loaded minute refresh rate. {[0]}
+[Thu Aug 17 19:30:00 CEST 2017] Loaded Hour refresh rate. {[4, 8, 12, 16, 20, 0]}
+[Thu Aug 17 19:30:00 CEST 2017] Loaded picture path. (/var/www/html/elliotalexander.press/Public/Greg/)
+[Thu Aug 17 19:30:00 CEST 2017] Refreshing Config...
