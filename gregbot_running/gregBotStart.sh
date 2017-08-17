@@ -9,7 +9,7 @@ fi
 
 cd ~
 cd GregBot/
-#screen -dmS GregBot bash -c 'java -jar GregBot-1.0-SNAPSHOT.jar | tee logfile.txt'
+screen -dmS GregBot bash -c 'java -jar GregBot-1.0-SNAPSHOT.jar | tee logfile.txt'
 if   ! screen -ls | grep -q "GregBot"; then
 	echo ERROR - GregBot failed to initialise.	
 	exit 0
