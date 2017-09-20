@@ -8,6 +8,7 @@ public class Constants {
     public static Integer REFRESH_RATE = 30000;
     public static Integer dayCount = 0;
     public static String picture_path;
+    public static String tweet_string = "";
 
     public static void setMinutesPastHour(ArrayList<Integer> input){
         MINUTES_REFRESH_RATE = input;
@@ -27,5 +28,9 @@ public class Constants {
 
     public static void setPicture_path(String s){
         picture_path = s;
+    }
+
+    public static void setTweetString(String s){
+        tweet_string = s;
     }
 }

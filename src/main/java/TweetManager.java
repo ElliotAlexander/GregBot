@@ -20,7 +20,7 @@ public class TweetManager {
 
     public void send_Tweet(){
         try {
-            String statusMessage = "Your daily dose of Greg. Now " + Constants.dayCount + " days since famine.";
+            String statusMessage = Constants.tweet_string;
             StatusUpdate status = new StatusUpdate(statusMessage);
             status.setMedia(fileManager.getRandomFile());
             twitter.updateStatus(status);
@@ -28,5 +28,4 @@ public class TweetManager {
             e.printStackTrace();
         }
     }
-
 }

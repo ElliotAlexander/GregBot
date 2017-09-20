@@ -21,6 +21,7 @@ public class ConfigManager {
         parseRefreshMinuteString();
         parseHourString();
         parsePicturePath();
+        parseTweetString();
     }
 
     private Properties getConfig(){
@@ -97,5 +98,12 @@ public class ConfigManager {
         }
         Logger.log_Info("Loaded config refresh rates. {" + arr.toString() + "}");
         Constants.setConfigRefreshRate(arr);
+    }
+
+    private void parseTweetString(){
+        Properties prop = getConfig();
+        String tweet_string = (String)prop.getProperty("Tweet String");
+        Constants.setTweetString(tweet_string);
+        Logger.log_Info("Using tweet string : " + tweet_string);
     }
 }
