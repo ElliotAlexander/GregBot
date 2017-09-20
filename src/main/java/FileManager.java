@@ -10,12 +10,12 @@ public class FileManager {
     }
 
     public File getRandomFile(){
-        File gregDir = new File(Constants.picture_path);
-        if(!(gregDir.exists())){
+        File dir = new File(Constants.picture_path);
+        if(!(dir.exists())){
             Logger.log_Info("Error - Cannot load pictures directory");
             return null;
         } else {
-            File[] fileList = gregDir.listFiles();
+            File[] fileList = dir.listFiles();
             int x = rand.nextInt(fileList.length);
             x -= 1;
             return fileList[x];
