@@ -1,0 +1,5 @@
+target/
+.idea/
+GregBot.iml
+pom.xml
+running_example/twitter4j.properties
